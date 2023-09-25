@@ -18,7 +18,7 @@ Flask==1.1.1
 future==0.17.1
 futures==3.1.1
 gast==0.2.2
-gevent==1.4.0
+gevent==23.9.1
 gin-config==0.2.0
 glfw==1.8.2
 google-api-python-client==1.7.9
